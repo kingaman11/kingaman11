@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Singh
 - 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning data analytics!
+- 🌱 I’m currently learning data science and analytics! I am always trying to get better in the field.
 - 💞️ I’m looking to collaborate on anything that will help me learn!
 - 📫 How to reach me email! amasin@ucdavis.edu
 
