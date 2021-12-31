@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingaman11
+- 👋 Hi, I’m Aman Singh
 - 👀 I’m interested in Data Science!
 - 🌱 I’m currently learning data analytics!
 - 💞️ I’m looking to collaborate on anything that will help me learn!
