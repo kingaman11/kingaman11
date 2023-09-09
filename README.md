@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aman Singh
-- 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning data science and analytics! I am always trying to get better in the field.
+- 👀 I’m interested in Product Management!
+- 🌱 I’m currently learning how to be a better product manager! I am always trying to get better in the field.
 - 💞️ I’m looking to collaborate on anything that will help me learn!
-- 📫 How to reach me email! amasin@ucdavis.edu
+- 📫 How to reach me: email! amasin@ucdavis.edu
 
 <!---
 kingaman11/kingaman11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
